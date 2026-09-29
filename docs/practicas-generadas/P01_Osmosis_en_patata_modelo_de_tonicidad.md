@@ -104,7 +104,7 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 ## 7. Datos de realización 
 
 - **Nombre y apellidos:** AMBRA MARGARITA MIFUMU ASUMU NZANG 
-- **Fecha real de realización:** [dd/mm/aaaa]
+- **Fecha real de realización:** 29/09/2026
 - **Grupo:** [Indica tu grupo]
 - **Pareja de trabajo, si procede:** LOLA
 - **Rol o tarea principal:** [Describe tu participación]
