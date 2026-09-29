@@ -101,9 +101,9 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 # Tu cuaderno de prácticas
 
-## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
+## 7. Datos de realización 
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
+- **Nombre y apellidos:** AMBRA MARGARITA MIFUMU ASUMU NZANG 
 - **Fecha real de realización:** [dd/mm/aaaa]
 - **Grupo:** [Indica tu grupo]
 - **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
