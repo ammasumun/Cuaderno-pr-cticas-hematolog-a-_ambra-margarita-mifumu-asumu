@@ -107,7 +107,7 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 - **Fecha real de realización:** 29/09/2026
 - **Grupo:** [Indica tu grupo]
 - **Pareja de trabajo, si procede:** LOLA
-- **Rol o tarea principal:** [Describe tu participación]
+- **Rol o tarea principal:** Técnico 
 - **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
 - **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
 
