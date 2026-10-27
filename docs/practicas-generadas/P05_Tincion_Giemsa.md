@@ -122,7 +122,7 @@ La obtención de sangre y la preparación de la extensión se documentan en [P03
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
+- **Nombre y apellidos:** Ambra Margarita Mifumu Asumu Nzang 
 - **Fecha real de realización:** [dd/mm/aaaa]
 - **Grupo:** [Indica tu grupo]
 - **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
